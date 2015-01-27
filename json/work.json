@@ -1,0 +1,19 @@
+{
+	"jobs":[
+	 	{
+			"employer": "Veraguas Water Purifier",
+			"title": "Salesman",
+			"location": "El Progreso Av. #8",
+			"dates": "01102011-07152014",
+			"description": "Sale the product with quality and hygiene."
+		},
+		{
+			"employer": "Misa Electronics",
+			"title": "Electronics Technician",
+			"location": "Simon Orozco Av.",
+			"dates": "08012010-12012010",
+			"description": "Repair electronics equipment."
+		}
+	],
+	"display": "function(){}"
+}

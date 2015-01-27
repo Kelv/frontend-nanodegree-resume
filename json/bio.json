@@ -1,0 +1,15 @@
+{
+	"name": "Kelvin Rodriguez",
+	"role": "Mechatronics Technologist",
+	"contacts": {
+		"mobile": "829-556-9057",
+		"email": "kelv.rod@gmail.com",
+		"github": "https://github.com/Kelv",
+		"twitter": "",
+		"location": "Invivienda, Santo Domingo" 
+		},
+	"welcomeMessage": "Hello I'm Kelvin!",
+	"skills": ["Electricity", "Electronics", "Solidworks and AutoCad Design", "Programming"],
+	"biopic": "",
+	"display": "function(){}"
+}
