@@ -2,17 +2,17 @@
 	"schools": [
 		{
 			"name": "Prof. Simon Orozco Politechnic School",
-			"location": "Invivienda, Santo Domingo",
+			"location": "Invivienda, Santo Domingo, DR",
 			"degree": "Electronics Technician",
-			"majors": "",
+			"majors": [],
 			"dates": "11022010",
 			"url": ""
 		},
 		{
 			"name": "Las Americas Institute of Technology",
-			"location": "Autopista Las Américas, Km. 27, PCSD, La Caleta, Boca Chica",
+			"location": "Autopista Las Américas, Km. 27, PCSD, La Caleta, Boca Chica, DR",
 			"degree": "Mechatronics Technologist",
-			"majors": "",
+			"majors": [],
 			"dates": "08132014",
 			"url": "http://www.itla.edu.do"
 		},
@@ -20,7 +20,7 @@
 			"name": "UNAPEC",
 			"location": "Avenida 27 de Febrero 569, Santo Domingo",
 			"degree": "Electrical Engineer",
-			"majors": "",
+			"majors": [],
 			"dates": "0",
 			"url": "https://www.unapec.edu.do"
 		}
